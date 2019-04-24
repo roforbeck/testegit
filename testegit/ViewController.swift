@@ -14,11 +14,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-print ("carregou a primeira tela")
     
-    print ("nao deveria acontecer")
+     print ("nao deveria acontecer.")
+print ("carregou a primeira tela.")
     
-    print ("isso nao deveria estar aqui")
+    print ("isso nao deveria estar aqui.")
 
 }
 
