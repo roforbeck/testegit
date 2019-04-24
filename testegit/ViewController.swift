@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 print ("carregou a primeira tela")
+    
+    print ("nao deveria acontecer")
+    
+    print ("isso nao deveria estar aqui")
 
 }
 
