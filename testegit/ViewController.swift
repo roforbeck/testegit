@@ -19,6 +19,7 @@ class ViewController: UIViewController {
 print ("carregou a primeira tela.")
     
     print ("isso nao deveria estar aqui.")
+    print ("isso foi feito no conflito")
 
 }
 
