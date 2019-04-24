@@ -13,6 +13,7 @@
 		01012DC92270CFDD00BFA919 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01012DC82270CFDD00BFA919 /* Assets.xcassets */; };
 		01012DCC2270CFDD00BFA919 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01012DCA2270CFDD00BFA919 /* LaunchScreen.storyboard */; };
 		01012DD42270D24400BFA919 /* receita.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01012DD32270D24400BFA919 /* receita.swift */; };
+		01012DD62270D69200BFA919 /* favoritos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01012DD52270D69200BFA919 /* favoritos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		01012DCB2270CFDD00BFA919 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		01012DCD2270CFDD00BFA919 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01012DD32270D24400BFA919 /* receita.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = receita.swift; sourceTree = "<group>"; };
+		01012DD52270D69200BFA919 /* favoritos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = favoritos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				01012DC12270CFDB00BFA919 /* AppDelegate.swift */,
 				01012DC32270CFDB00BFA919 /* ViewController.swift */,
+				01012DD52270D69200BFA919 /* favoritos.swift */,
 				01012DC52270CFDB00BFA919 /* Main.storyboard */,
 				01012DC82270CFDD00BFA919 /* Assets.xcassets */,
 				01012DCA2270CFDD00BFA919 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				01012DC42270CFDB00BFA919 /* ViewController.swift in Sources */,
 				01012DC22270CFDB00BFA919 /* AppDelegate.swift in Sources */,
 				01012DD42270D24400BFA919 /* receita.swift in Sources */,
+				01012DD62270D69200BFA919 /* favoritos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
